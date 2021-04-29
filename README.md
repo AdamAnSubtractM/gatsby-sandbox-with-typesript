@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color:white;">
   <a href="https://github.com/AdamAnSubtractM/gatsby-sandbox-with-typesript">
     <img alt="AdamAnSubtractM" src="https://res.cloudinary.com/adamknee/image/upload/v1617733739/portfolio-gatsby/adam-knee-logo_s4ekbl.svg" height="200" />
   </a>
